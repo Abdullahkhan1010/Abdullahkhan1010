@@ -1,12 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullahkhan1010&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Abdullahkhan1010" />
-</a>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Abdullah+Khan;Full+Stack+Developer;Creative+Coder;Performance+Obsessive" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Abdullah+Khan;Full+Stack+Developer;Creative+Coder;Performance+Obsessive" alt="Typing SVG" />
 
 <br/>
 
@@ -62,14 +56,11 @@ I am a **Full Stack Developer** pursuing my **BS in Computer Science** at **Air 
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahkhan1010&theme=radical&hide_border=true" alt="GitHub Streak" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan1010&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan1010&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan1010&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan1010&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
 
 <br/>
 
