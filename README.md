@@ -75,13 +75,13 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan1010&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan1010&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
-</p>
-
----
-
 <div align="center">
-  <i>"Talk is cheap. Show me the code." – Linus Torvalds</i>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan1010&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan1010&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Abdullahkhan1010/Abdullahkhan1010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
