@@ -1,82 +1,87 @@
-<h1 align="center">Hi there 👋, I'm Abdullah</h1>
+<h1 align="center">Hi there, I'm Abdullah! 👋</h1>
 
-<p align="center">
-  🚀 Full-Stack Developer | 💻 MERN Stack Enthusiast | 🔍 Problem Solver  
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Abdullahkhan1010?label=Follow&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Abdullahkhan1010?label=Stars&style=social" alt="GitHub Stars"/>
-</p>
+**Full Stack Developer | Creative Coder | Performance Obsessive**
+
+🚀 *Turning complex problems into beautiful, high-performance web experiences.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://portfolio-abdullah-virid.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-khan-webdev/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:abdullah.khan1010@gmail.com)
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/Abdullahkhan1010?label=Follow&style=social" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/Abdullahkhan1010?label=Stars&style=social" alt="GitHub Stars"/>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Full Stack Developer with hands-on experience in **MERN stack** and Python.
-- 🌱 Currently exploring: Advanced **backend development**, **cloud**, and **DevOps** tools.
-- 🧠 Love solving real-world problems using technology.
-- 💬 Ask me about anything related to **JavaScript**, **React**, **Node.js**, or **Python**.
+- 🎓 **Full Stack Developer** specializing in **MERN Stack**, **Next.js**, and **Shopify**.
+- 🔭 **Recently Completed:** High-performance sites for **Manzil Media** (WebGL) and **Magasin Daata** (Shopify).
+- 🌱 **Currently exploring:** Advanced **3D Web Experiences (Three.js/OGL)** and **DevOps**.
+- 💬 Ask me about **React Performance**, **Framer Motion**, or **Liquid Templating**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B)  
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart)  
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Liquid](https://img.shields.io/badge/-Liquid-95BF47?style=flat&logo=shopify&logoColor=white)
 
-### 🚀 Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)  
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)
+### 🚀 Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)  
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
-
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)  
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-Here are some cool things I’ve built 👇
+### 🏆 Professional Client Work
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Manzil Media** | `React` `WebGL` `GSAP` | **(Live)** An immersive portfolio for a digital agency featuring 3D circular galleries and zero-lag animations. **95+ Lighthouse Score.** |
+| **Magasin Daata** | `Shopify` `Liquid` `JS` | **(Live)** Custom storefront optimized for high-volume sales. Achieved **90+ PageSpeed** insights score. |
+| **Fight House** | `WooCommerce` `WordPress` | **(Live)** A complete fitness e-commerce platform with custom product filtering and subscription management. |
+| **Portfolite** | `Next.js 15` `Tailwind` | **(Live)** My personal developer portfolio. [**View Code**](https://github.com/Abdullahkhan1010/Portfolio) |
 
+### 📚 Open Source & University Projects
 | Project | Description | Stack |
-|--------|-------------|--------|
-| 🔗 [**Live-Streaming-App**](https://github.com/Abdullahkhan1010/Live-Streaming-App) | A basic live streaming app using socket programming | Python |
-| 🔗 [**Lost-and-Found-App**](https://github.com/Abdullahkhan1010/Lost-and-Found-App) | A simple lost & found app over network sockets | Python |
-| 🔗 [**Fitness-Tracker-App**](https://github.com/Abdullahkhan1010/Fitness-Tracker-App) | A mobile fitness tracker built using Flutter & Firebase | Dart, Firebase |
-| 🔗 [**ICTProject**](https://github.com/Abdullahkhan1010/ICTProject) | Basic static web project | HTML, CSS |
-| 🔗 [**RestaurantManagement**](https://github.com/Abdullahkhan1010/RestaurantManagement) | C++ console-based restaurant order manager | C++ |
-| 🔗 [**Sudoku-Solver**](https://github.com/Abdullahkhan1010/Sudoku-Solver) | Sudoku solver using dancing links algorithm | C++, HTML/CSS |
+| :--- | :--- | :--- |
+| 🔗 [**Fitness-Tracker-App**](https://github.com/Abdullahkhan1010/Fitness-Tracker-App) | A mobile fitness tracker with real-time health metrics. | `Flutter` `Firebase` |
+| 🔗 [**Sudoku-Solver**](https://github.com/Abdullahkhan1010/Sudoku-Solver) | Optimized Sudoku solver using the Dancing Links algorithm. | `C++` |
+| 🔗 [**Live-Streaming-App**](https://github.com/Abdullahkhan1010/Live-Streaming-App) | A basic live streaming app using socket programming. | `Python` |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan1010&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan1010&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan1010&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan1010&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🤝 Let’s Connect
-
-- 📧 Email: *abdullah.khan1010@gmail.com*  
-- 💼 LinkedIn: *[www.linkedin.com/in/abdullah-khan-webdev](#)*
-- 🌐 Portfolio: *Coming soon*
-
-> *"Talk is cheap. Show me the code." – Linus Torvalds*
+<div align="center">
+  <i>"Talk is cheap. Show me the code." – Linus Torvalds</i>
+</div>
